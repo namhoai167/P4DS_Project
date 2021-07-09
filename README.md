@@ -9,6 +9,6 @@
 
 ## Content:
 
-Analyza movies extensive dataset scraped from website [IMDb](https://www.imdb.com/)
+Analyze movies extensive dataset scraped from website [IMDb](https://www.imdb.com/)
 
 Data source: [IMDb movies extensive dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
